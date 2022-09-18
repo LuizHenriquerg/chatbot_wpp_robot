@@ -1,0 +1,6 @@
+{
+    "connection": "localhost:27017",
+    "db_name": "chatbot_whatsapp",
+    "token": "",
+    "id_wpp": ""
+}
